@@ -59,6 +59,7 @@ export default function App() {
     body {
       text-align: center;
       font-family: -apple-system, sans-serif;
+      background: blue;
     }
     .container {
       width: 1060px;
